@@ -1,0 +1,1 @@
+SELECT TOP 1000 [CustomerNumber],[FirstName],[LastName],[Phone],[Address],[City],[State],[Zip],[Email] FROM [veronicas].[dbo].[Customers];

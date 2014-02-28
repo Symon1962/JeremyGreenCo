@@ -1,0 +1,1 @@
+Select GETDATE() as TimeofQuery; Select GETDATE() as TimeofQuery;

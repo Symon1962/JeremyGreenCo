@@ -1,0 +1,13 @@
+SELECT TOP 100 [CustomerNumber]
+      ,[FirstName]
+      ,[LastName]
+      ,[Phone]
+      ,[Address]
+      ,[City]
+      ,[State]
+      ,[Zip]
+      ,[Email]
+      ,[Birthdate]
+      ,[Anniversary]
+  FROM [veronicas].[dbo].[Customers]
+GO

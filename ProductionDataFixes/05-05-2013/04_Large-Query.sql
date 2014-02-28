@@ -1,0 +1,1 @@
+SELECT [FirstName],[LastName],[Address] FROM [veronicas].[dbo].[Customers] WHERE CustomerNumber like 553;
